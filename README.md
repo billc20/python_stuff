@@ -1,2 +1,3 @@
 # python_stuff
-my python training repo
+My Python training repo
+keeping track of simple programs I build
